@@ -1,0 +1,3 @@
+Guia prático do git
+
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
